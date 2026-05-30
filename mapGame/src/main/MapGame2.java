@@ -1,4 +1,4 @@
-package code5_7;
+package main;
 
 import java.util.Random;
 
